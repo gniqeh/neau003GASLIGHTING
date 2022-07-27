@@ -1,0 +1,5 @@
+zqh:202207271643
+The dataset has been uploaded now.
+(1) The dataset is series of actual power demand from 2016 to 2020 in THREE countries, Schweiz(ch), Ohsterreich(au) und Liechtenstein(lu). The raw data if download from die ENTSO-E Transparency Platform (https://transparency.entsoe.eu). Ich has changed the duplicate time index from the daylight saving time(DST), whose the time zone is CET (UTC+1) / CEST (UTC+2).
+(2) The dataset.ipynb is the python script to transform *.csv to timeseries; the au = Austria(NOT Australia, and NO KANGAROO!), ch = Switzerland, lu = Luxembourg; the *.zqh is the pd.DataFrame with time index.
+(3) Watch out! There is some NaN values in lu-set.
