@@ -1,1 +1,4 @@
-test
+This is the distribution zone substation eletrical data (about) from 2017 to 2021 for 177 stations. 
+Ich Integrated these four years data as the single-series.
+The original data is from AUSGRID(https://www.ausgrid.com.au/Industry/Our-Research/Data-to-share/Distribution-zone-substation-data)
+Some almost blank dataset has been ignored.
